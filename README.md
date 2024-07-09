@@ -1,4 +1,5 @@
 # Dev Container Features: Self Authoring Template
+create empty commit v0.2
 
 > This repo provides a starting point and example for creating your own custom [dev container Features](https://containers.dev/implementors/features/), hosted for free on GitHub Container Registry.  The example in this repository follows the [dev container Feature distribution specification](https://containers.dev/implementors/features-distribution/).  
 >
